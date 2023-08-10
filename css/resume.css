@@ -1,7 +1,7 @@
 body {
-  font-family: 'Open Sans', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #3e3e3e;
 }
 
 @media (min-width: 992px) {
@@ -17,19 +17,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #343a40;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+
+  color: #000000;
 }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem;
+  font-size: 4rem;
+  line-height: 4.5rem;
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 }
 
 .subheading {
@@ -131,11 +131,12 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #0855d5 !important;
+  background-color: #143363 !important;
+  color: darkblue;
 }
 
 .text-primary {
-    color: #0855d5 !important;
+    color: #143363 !important;
 }
 
 a {
